@@ -1,0 +1,2 @@
+# SpringBootFileUploadAndDownloadApp
+Here i built a SpringBootFileUploadAndDownloadApp which exposes a Restful API for uploading and downloading the files and also develop a very simple front end using Javascript for uploading and downloading the file.  Therefore, you can definitely upload or download files such as movies, songs, or any documents like pdf, images, etc. as these are very frequently used features of many applications or software.
